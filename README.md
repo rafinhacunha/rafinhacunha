@@ -23,3 +23,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
 </div>
+![snake_gif](https://github.com/artur-devb/artur-de/blob/output/github-contribution-grid-snake.gif)
