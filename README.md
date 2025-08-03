@@ -1,7 +1,7 @@
 # Olá, eu sou Rafael Cunha 👋
 
 ## Sobre mim
-- **Idade:** 18 anos
+- **Idade:** 19 anos
 - **Curso:** Ciências da Computação na UENP
 
 ## Linguagens mais usadas
