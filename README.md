@@ -23,19 +23,10 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
 </div>
-##
-
 <div align="center">
   <a href="[https://github.com/rafinhacunha]">
-    <img height="165" align="top" src="https://github-readme-stats.vercel.app/api?username=vieiranaju&show_icons=true&theme=discord_old_blurple"/>
-    <img height="180" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiranaju&layout=compact&theme=discord_old_blurple"/>
+    <img height="165" align="top" src="https://github-readme-stats.vercel.app/api?username=rafinhacunha&show_icons=true&theme=discord_old_blurple"/>
+    <img height="180" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacunha&layout=compact&theme=discord_old_blurple"/>
   </a>
 </div>
 
-##
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,python,java,unity,godot" />
-  </a>
-</p>
