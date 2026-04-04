@@ -1,33 +1,23 @@
-# Olá, eu sou Rafael Cunha 👋
+# 👋 Olá, eu sou o Rafael!
 
-## Sobre mim
-- **Idade:** 19 anos
-- **Curso:** Ciências da Computação na UENP
+💻 Desenvolvedor em formação  
+🚀 Focado em aprender e evoluir na programação  
 
-## Linguagens mais usadas
-<div style="display: inline-block;"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+---
 
-## Contatos
-<div> 
-  <a href="https://www.instagram.com/rafaelcunha_1/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:contatorafag6233@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/rafael-cunha-9a4a76278/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-</div>
-<br>
-<div align="center">
-  <a href="[https://github.com/rafinhacunha]">
-    <img height="165" align="top" src="https://github-readme-stats.vercel.app/api?username=rafinhacunha&show_icons=true&theme=discord_old_blurple"/>
-    <img height="180" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacunha&layout=compact&theme=discord_old_blurple"/>
-  </a>
-</div>
+## 🚀 Tecnologias
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafinhacunha&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhacunha&layout=compact&theme=tokyonight" />
+</p>
